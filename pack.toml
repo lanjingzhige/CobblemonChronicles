@@ -1,0 +1,13 @@
+name = "XXX"
+author = "蓝鲸，番茄鱼，电波囚人，阿虔"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f0cb7756df537ac4fe3a0e0e0ba31b346bb2b849f86ab7204de8219f757fb971"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.249"

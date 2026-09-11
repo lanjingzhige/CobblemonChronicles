@@ -1,0 +1,37 @@
+filename = 'E19 Cobblemon Minimap Icons.zip'
+name = 'E19 - Cobblemon Minimap Icons'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.4'
+
+[download]
+hash = '8c7d5b964ee28456f8bd5ad6d8d0905e72b5287d38872b75e24762f9cbee6664d61c41ac52443283688dc939c6f9d36512e9a849af0f9118e69d64a55fece196'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Va3BanZa/versions/YGgixlha/E19 Cobblemon Minimap Icons.zip'
+
+[update.modrinth]
+mod-id = 'Va3BanZa'
+version = 'YGgixlha'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nHMcH3tj'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BlIiMzsQ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1bokaNcj'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '2PwY98im'
+type = 'OPTIONAL'

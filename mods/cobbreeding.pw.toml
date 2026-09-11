@@ -1,0 +1,33 @@
+filename = 'Cobbreeding-neoforge-2.3.0.jar'
+name = 'Cobbreeding'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.3.0'
+
+[download]
+hash = '1f3a2f9c096bcf7a6383dcb3be40937eb99933493b7e8529c4e8c0cd54bfdb2db8696aade592940d531beebff502ec2637d654148422ceca2e6d7e7b060dec9c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ItmVb4zY/versions/su1QucoO/Cobbreeding-neoforge-2.3.0.jar'
+
+[update.modrinth]
+mod-id = 'ItmVb4zY'
+version = 'su1QucoO'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ordsPcFz'
+type = 'REQUIRED'

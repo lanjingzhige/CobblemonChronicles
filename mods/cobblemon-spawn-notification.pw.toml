@@ -1,0 +1,25 @@
+filename = 'spawnnotification-neoforge-1.8.0-2.3.0.jar'
+name = 'Cobblemon Spawn Notification'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.8.0-neoforge-2.3.0'
+
+[download]
+hash = 'beb95cba3809e441c948ffaaacb5ff1b6f7f26bd7dd9dee719e2a0ee005370911b2449e07dd196e0a60022a66808652eadb77d34556d38c73e489969c1b349b4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LPuJjiQz/versions/WkrGpIKV/spawnnotification-neoforge-1.8.0-2.3.0.jar'
+
+[update.modrinth]
+mod-id = 'LPuJjiQz'
+version = 'WkrGpIKV'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lVP9aUaY'
+type = 'REQUIRED'

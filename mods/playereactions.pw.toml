@@ -1,0 +1,18 @@
+filename = 'Reactions-neoforge-0.8.0+1.21.1.jar'
+name = 'Reactions'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.8.0'
+
+[download]
+hash = '26ff2487107afb5c4e800d8e5c967f8f0112da06e19478c7e56786add83cfc727752d1b502a5193c5c6fdb8f49d2ffef56b4cf5274e277c4ca6097646a2f9a8c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8HLtNhbi/versions/bJapMsTG/Reactions-neoforge-0.8.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = '8HLtNhbi'
+version = 'bJapMsTG'

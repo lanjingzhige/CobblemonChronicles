@@ -1,0 +1,25 @@
+filename = 'create-integrated-farming-1.4.1b.jar'
+name = 'Create: Integrated Farming'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.1b'
+
+[download]
+hash = 'c17f651683872587f3c446d4a115fe00b301f3e3d3742db0a16fa7864993051ce3da355cba90f56b66664e190f1bc25bfa99f93963fc7c28f105476fd223c75a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9k1pAsfR/versions/QZhNScOJ/create-integrated-farming-1.4.1b.jar'
+
+[update.modrinth]
+mod-id = '9k1pAsfR'
+version = 'QZhNScOJ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'dzb1a5WV'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

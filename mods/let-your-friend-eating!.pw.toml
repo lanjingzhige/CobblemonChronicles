@@ -1,0 +1,21 @@
+filename = 'LetYourFriendEating_1.1.4_1.21.1_NeoForge.jar'
+name = 'Let Your Friend Eating!'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.4'
+
+[download]
+hash = 'da3208b8cbf3b4d7beabb779c61f35600c3d991297852ace49494ee2d6d40fdf276f172101824755d26cea879ff9bafc8e5baa43675d1144b8df7b44a4e8ff43'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qkQbFn8p/versions/7lIuOgMO/LetYourFriendEating_1.1.4_1.21.1_NeoForge.jar'
+
+[update.modrinth]
+mod-id = 'qkQbFn8p'
+version = '7lIuOgMO'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'

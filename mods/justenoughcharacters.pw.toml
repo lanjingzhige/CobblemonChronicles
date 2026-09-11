@@ -1,0 +1,18 @@
+filename = 'jecharacters-1.21.1-neoforge-4.5.29.jar'
+name = 'JustEnoughCharacters'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.5.29'
+
+[download]
+hash = 'b19b4133c41c54a95e4ae45af2e80cd511767aff3b9afdae82477505be5da47b7062edb2421225ac8d5134876875f9b245b5bf1209adf117a73e5d842e42a7b5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/I7k4B65h/versions/XPKoy65e/jecharacters-1.21.1-neoforge-4.5.29.jar'
+
+[update.modrinth]
+mod-id = 'I7k4B65h'
+version = 'XPKoy65e'

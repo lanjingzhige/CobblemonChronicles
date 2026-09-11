@@ -1,0 +1,29 @@
+filename = 'berrypouch-neoforge-1.21.1-0.6-beta.jar'
+name = 'Berry Pouch [Cobblemon]'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.6-beta'
+
+[download]
+hash = '80dbd3547b58d75931df2a9b63b6184efd7329e38ba73eaa7f955caebde8e7aca3fb2d2915c9e8c7bc85b8879c6d54fc5b5956b82970f2fd4b3da71c975a43eb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/y7TzXi4L/versions/19kArHAg/berrypouch-neoforge-1.21.1-0.6-beta.jar'
+
+[update.modrinth]
+mod-id = 'y7TzXi4L'
+version = '19kArHAg'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'jtmvUHXj'
+type = 'REQUIRED'

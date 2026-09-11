@@ -1,0 +1,20 @@
+filename = 'meteor_shower-0.0.5.jar'
+name = 'Ex Meteor Shower'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'meteor_shower-0.0.5.jar'
+
+[download]
+hash = 'f7d6c47675d51bdac07b291a6f4f69bc0cdac2b3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 8518516
+project-id = 1461322
+
+[[x-prismlauncher-dependencies]]
+addonId = '916747'
+type = 'REQUIRED'
