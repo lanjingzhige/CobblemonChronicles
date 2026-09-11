@@ -1,6 +1,6 @@
 filename = 'visual_keybinder-1.21.1-0.1.13-neoforge.jar'
 name = "Raw's Visual keybinder"
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

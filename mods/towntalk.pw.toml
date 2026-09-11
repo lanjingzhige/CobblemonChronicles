@@ -1,6 +1,6 @@
 filename = 'towntalk-1.2.0.jar'
 name = 'TownTalk'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

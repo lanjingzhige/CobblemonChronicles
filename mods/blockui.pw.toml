@@ -1,6 +1,6 @@
 filename = 'blockui-1.0.211-1.21.1-snapshot.jar'
 name = 'BlockUI'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
