@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"cobblemon_utility:transmutationorb"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:backpack","components":"{\"sophisticatedcore:accent_color\":-816214,\"sophisticatedcore:main_color\":-816214}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:eject_pack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticated_jei_index:jei_index_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:diamond_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:backpack","components":"{\"sophisticatedcore:accent_color\":-10585066,\"sophisticatedcore:main_color\":-10585066}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

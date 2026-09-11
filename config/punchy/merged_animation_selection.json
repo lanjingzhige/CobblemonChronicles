@@ -1,0 +1,133 @@
+{
+  "selected_animations": [
+    {
+      "kind": "item",
+      "definition": "SPEAR",
+      "animations": {
+        "attack": "pack:file/punchy fix swimming.zip",
+        "mining": "pack:file/punchy fix swimming.zip",
+        "hand_in": "pack:file/punchy fix swimming.zip",
+        "spear_charge": "pack:file/punchy fix swimming.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "FULL_BLOCK",
+      "animations": {
+        "attack": "pack:file/punchy fix swimming.zip",
+        "mining_v2": "pack:file/punchy fix swimming.zip",
+        "useitem": "pack:file/hyperpunchy-v2.5+.zip",
+        "interaction": "pack:file/hyperpunchy-v2.5+.zip",
+        "inspect": "pack:file/hyperpunchy-v2.5+.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "SHOVEL",
+      "animations": {
+        "mining_v2": "pack:file/punchy fix swimming.zip",
+        "attack": "pack:file/punchy fix swimming.zip",
+        "useitem": "pack:file/punchy fix swimming.zip",
+        "interaction": "pack:file/hyperpunchy-v2.5+.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "MACE",
+      "animations": {
+        "mining_v2": "pack:file/punchy fix swimming.zip",
+        "attack": "pack:file/punchy fix swimming.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "SWORD",
+      "animations": {
+        "attack": "pack:file/punchy fix swimming.zip",
+        "mining_v2": "pack:file/punchy fix swimming.zip",
+        "inspect": "pack:file/punchy fix swimming.zip",
+        "triggerable": "pack:file/punchy fix swimming.zip",
+        "hand_in": "pack:file/hyperpunchy-v2.5+.zip",
+        "interaction": "pack:file/hyperpunchy-v2.5+.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "CROSSBOW",
+      "animations": {
+        "use_crossbow": "pack:file/punchy fix swimming.zip",
+        "use_crossbow_shot": "pack:file/punchy fix swimming.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "BOW",
+      "animations": {
+        "use_bow": "pack:file/punchy fix swimming.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "SHIELD",
+      "animations": {
+        "use_shield": "pack:file/punchy fix swimming.zip",
+        "attack": "pack:file/punchy fix swimming.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "FISHING_ROD",
+      "animations": {
+        "fishingrod": "pack:file/punchy fix swimming.zip",
+        "attack": "pack:file/punchy fix swimming.zip",
+        "useitem": "pack:file/hyperpunchy-v2.5+.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "AXE",
+      "animations": {
+        "mining_v2": "pack:file/punchy fix swimming.zip",
+        "attack": "pack:file/punchy fix swimming.zip",
+        "useitem": "pack:file/punchy fix swimming.zip",
+        "inspect": "pack:file/hyperpunchy-v2.5+.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "HOE",
+      "animations": {
+        "mining_v2": "pack:file/punchy fix swimming.zip",
+        "attack": "pack:file/punchy fix swimming.zip",
+        "useitem": "pack:file/punchy fix swimming.zip",
+        "interaction": "pack:file/hyperpunchy-v2.5+.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "FLINT",
+      "animations": {
+        "useitem": "pack:file/punchy fix swimming.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "PICKAXE",
+      "animations": {
+        "mining_v2": "pack:file/punchy fix swimming.zip",
+        "attack": "pack:file/punchy fix swimming.zip",
+        "inspect": "pack:file/punchy fix swimming.zip",
+        "interaction": "pack:file/hyperpunchy-v2.5+.zip"
+      }
+    },
+    {
+      "kind": "item",
+      "definition": "EMPTY_HAND",
+      "animations": {
+        "mining_v2": "pack:file/punchy fix swimming.zip",
+        "attack": "pack:file/punchy fix swimming.zip",
+        "interaction": "punchy_default"
+      }
+    }
+  ]
+}

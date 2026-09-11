@@ -1,25 +1,25 @@
-filename = 'create-integrated-farming-1.4.1b.jar'
+filename = 'create-integrated-farming-1.4.1c.jar'
 name = 'Create: Integrated Farming'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.4.1b'
+x-prismlauncher-version-number = '1.4.1c'
 
 [download]
-hash = 'c17f651683872587f3c446d4a115fe00b301f3e3d3742db0a16fa7864993051ce3da355cba90f56b66664e190f1bc25bfa99f93963fc7c28f105476fd223c75a'
+hash = 'cf3d36c52f73433714c646777b408e2c4f375e424e11590baa5ec48a27775adbc6b72bc4ff2fc366d36979eac9f101392472e30dccb867dedcae26718379d8ed'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/9k1pAsfR/versions/QZhNScOJ/create-integrated-farming-1.4.1b.jar'
+url = 'https://cdn.modrinth.com/data/9k1pAsfR/versions/zF7BFx6A/create-integrated-farming-1.4.1c.jar'
 
 [update.modrinth]
 mod-id = '9k1pAsfR'
-version = 'QZhNScOJ'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'dzb1a5WV'
-type = 'REQUIRED'
+version = 'zF7BFx6A'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'dzb1a5WV'
 type = 'REQUIRED'

@@ -1,20 +1,20 @@
-filename = 'slc_unofficial-neoforge-3.1.0+1.21.1.jar'
+filename = 'slc_unofficial-neoforge-3.1.1+1.21.1.jar'
 name = 'SodiumLeafCulling-Unofficial'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.1.0+mc1.21.1-neoforge'
+x-prismlauncher-version-number = '3.1.1+mc1.21.1-neoforge'
 
 [download]
-hash = 'cd47b836697cd246590d5c72c4dc0205f48ffcec55865251f200571622daf3f38aeadf076769302700c714ed6d7f2bdd7a053ebceef7418f99c5401b5509ca85'
+hash = '2e257a79e42238a21c25815d20868282dda2a77f068e611ec93c31024ac255264aaf178de784ce733e70e0ba82842a2f831d8d2e218317a3998e2942383e793b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/xtym7fz7/versions/zzwRhl4V/slc_unofficial-neoforge-3.1.0%2B1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/xtym7fz7/versions/7mGFwqgi/slc_unofficial-neoforge-3.1.1%2B1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'xtym7fz7'
-version = 'zzwRhl4V'
+version = '7mGFwqgi'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'AANobbMI'

@@ -1,0 +1,7 @@
+{
+  "animation_render_distance": "32",
+  "infinite_animation_render_distance": "128",
+  "redstone_state": "false",
+  "repeater_state": "false",
+  "chain_state": "false"
+}

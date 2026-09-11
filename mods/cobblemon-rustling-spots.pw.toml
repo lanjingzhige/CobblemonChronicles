@@ -1,20 +1,20 @@
-filename = 'rustlingspots-neoforge-4.3.jar'
-name = 'Cobblemon Rustling Spots'
+filename = 'rustlingspots-neoforge-5.0.jar'
+name = 'Rustling Spots'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '4.3'
+x-prismlauncher-version-number = '5.0'
 
 [download]
-hash = '010ebb63ef3ee6aacbb2afd221e09ca8144dcd65723283a4bc0869358e6fdd8eb49220949e21da94582802b0e51ffa04b4de8a73b5876af65b55637e04d79924'
+hash = '07cbdaa5c5261aa03c983728b1c733f9e0dd406fe3f4ef1044b77162a3334ff92143de31828b91971142258da2a9348dd549637855500aaa00212d77b1c64900'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/JqMS1LKC/versions/dEWmjG1v/rustlingspots-neoforge-4.3.jar'
+url = 'https://cdn.modrinth.com/data/JqMS1LKC/versions/U4ZbvS1y/rustlingspots-neoforge-5.0.jar'
 
 [update.modrinth]
 mod-id = 'JqMS1LKC'
-version = 'dEWmjG1v'
+version = 'U4ZbvS1y'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'MdwFAVRL'

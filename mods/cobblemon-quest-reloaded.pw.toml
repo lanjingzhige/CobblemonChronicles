@@ -1,18 +1,18 @@
-filename = 'cobblemon_quests-reloaded-[1.21.1]-neoforge-1.3.9+1.8.jar'
-name = 'Cobblemon Quests Reloaded'
+filename = 'cobblemon_quests-reloaded-[1.21.1]-neoforge-2.0.0+1.8.jar'
+name = 'cobblemon_quests-reloaded'
 side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.3.9+1.8'
+x-prismlauncher-version-number = '2.0.0+1.8'
 
 [download]
-hash = '2071bcd7220e8b78cc2336c918cd5eb745600a5170763977ec1b06b8f4fa19238484a64e8dfd16851725a1ee422a9be542a111c1c6f1a5466da7c03211c90d99'
+hash = '7c07a2d2dc001933f1e1400a6506ddb0842708bf3bfe9ec0ab81a1c0a90dbeef3fee31c2c4d0c35a5287745117e5add6fd745f36eaab1a5dd40340a0bc148d51'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/agTMcrPN/versions/iCmtSCFr/cobblemon_quests-reloaded-%5B1.21.1%5D-neoforge-1.3.9%2B1.8.jar'
+url = 'https://cdn.modrinth.com/data/agTMcrPN/versions/IrlHL2I5/cobblemon_quests-reloaded-%5B1.21.1%5D-neoforge-2.0.0%2B1.8.jar'
 
 [update.modrinth]
 mod-id = 'agTMcrPN'
-version = 'iCmtSCFr'
+version = 'IrlHL2I5'
